@@ -2,5 +2,24 @@ h1 {
     color: yellow;
     background-color: darkslategray;
     text-align: center;
+    font-size: 60px;
+    text-decoration-color: aqua;
+}
 
+.abc {
+    color: red;
+    margin: 1cm;
+
+}
+
+#img1 {
+    text-align: center;
+}
+
+#clima {
+    color: green;
+}
+
+.parrafo {
+    text-align: center;
 }
